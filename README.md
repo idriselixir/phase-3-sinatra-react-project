@@ -136,3 +136,6 @@ fetch("http://localhost:9292/test")
 [dbdiagram.io]: https://dbdiagram.io/
 [postman download]: https://www.postman.com/downloads/
 [network tab]: https://developer.chrome.com/docs/devtools/network/
+  
+  # link for the frontend
+  https://github.com/idriselixir/todolist-react-frontend
